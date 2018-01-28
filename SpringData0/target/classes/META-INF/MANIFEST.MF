@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringData0
+Implementation-Version: 0.1.0
+Built-By: joseluis
+Implementation-Vendor-Id: es.curso.spring
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
